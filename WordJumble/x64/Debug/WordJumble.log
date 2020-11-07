@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\ray55\source\repos\Day1\WordJumble\Main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ray55\source\repos\Day1\WordJumble\Main.cpp(17,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  WordJumble.vcxproj -> C:\Users\ray55\source\repos\Day1\x64\Debug\WordJumble.exe
