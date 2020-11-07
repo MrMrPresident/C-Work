@@ -22,16 +22,18 @@ int main(int argc, char* argv)
 		else if (input == "feed")
 		{
 			cout << "feed" << endl;
+			Tamagochi::eat;
 		}
 		else if (input == "play")
 		{
 			cout << "play" << endl;
+			Tamagochi::play;
 		}
 		else if (input == "talk")
 		{
 			cout << "talk" << endl;
+			Tamagochi::talk;
 		}
-
 	}
 	
 	return 0;
